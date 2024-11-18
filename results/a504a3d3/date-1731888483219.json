@@ -1,0 +1,67 @@
+{
+  "url": "https://vite-antd-dashboard.sznm.dev/",
+  "requestedUrl": "https://vite-antd-dashboard.sznm.dev/",
+  "timestamp": 1731888728793,
+  "ranks": {
+    "hundos": 13,
+    "performance": 13,
+    "accessibility": 11,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.8,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 375
+  },
+  "firstContentfulPaint": 2605.743000000001,
+  "firstMeaningfulPaint": 2927.072750000001,
+  "speedIndex": 2664.9632649471946,
+  "largestContentfulPaint": 4118.063000000001,
+  "totalBlockingTime": 192,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3770.6755000000007,
+  "maxPotentialFirstInputDelay": 190,
+  "timeToFirstByte": 64.069,
+  "weight": {
+    "summary": "12 requests • 418.8 KiB",
+    "total": 428809,
+    "image": 6418,
+    "imageCount": 2,
+    "script": 383247,
+    "scriptCount": 5,
+    "document": 1216,
+    "font": 36478,
+    "fontCount": 1,
+    "stylesheet": 1150,
+    "stylesheetCount": 1,
+    "thirdParty": 8743,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 3,
+    "-weight.document": 1,
+    "+weight.document": 13,
+    "-weight.script": 11,
+    "+weight.script": 3,
+    "-weight.image": 8,
+    "+weight.image": 6,
+    "-weight.font": 8,
+    "+weight.font": 6,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 95,
+    "violations": 6
+  }
+}
