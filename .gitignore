@@ -1,10 +1,30 @@
 node_modules
 .log
-_site
 _data/results/*
 _data/results-last-runs.json
 package-lock.json
 .env
-.cache
 .vercel
 results
+
+# Generated files
+package/generated*
+
+# Ignore build tool output, e.g. code coverage
+.nyc_output/
+coverage/
+docs/_data/coverage.json
+
+# Ignore API documentation
+api-docs/
+
+# Ignore folders from source code editors
+.vscode
+.idea
+
+# Ignore eleventy output when doing manual tests
+_site/
+
+# Ignore test files
+.cache
+test/stubs-layout-cache/_includes/*.js
