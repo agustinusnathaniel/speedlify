@@ -13,7 +13,6 @@ module.exports = {
     freshChrome: "run",
   },
   urls: [
-    "https://sznm.dev/",
     "https://agustinusnathaniel.com/",
     "https://wussh.sznm.dev/",
     "https://wussh.sznm.dev/sozonome",
