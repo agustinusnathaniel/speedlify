@@ -1,0 +1,67 @@
+{
+  "url": "https://leeboor.sznm.dev/",
+  "requestedUrl": "https://leeboor.sznm.dev/",
+  "timestamp": 1739146121818,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 381
+  },
+  "firstContentfulPaint": 1623.6129999999998,
+  "firstMeaningfulPaint": 1623.6129999999998,
+  "speedIndex": 4942.659950000127,
+  "largestContentfulPaint": 1628.8748,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1623.6129999999998,
+  "maxPotentialFirstInputDelay": 30,
+  "timeToFirstByte": 2672.129,
+  "weight": {
+    "summary": "13 requests • 110.0 KiB",
+    "total": 112681,
+    "image": 0,
+    "imageCount": 0,
+    "script": 17409,
+    "scriptCount": 5,
+    "document": 2273,
+    "font": 86195,
+    "fontCount": 2,
+    "stylesheet": 5258,
+    "stylesheetCount": 2,
+    "thirdParty": 93667,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 3,
+    "-weight.document": 1,
+    "+weight.document": 4,
+    "-weight.script": 2,
+    "+weight.script": 3,
+    "-weight.image": 1,
+    "+weight.image": 1,
+    "-weight.font": 2,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 54,
+    "violations": 14
+  }
+}
