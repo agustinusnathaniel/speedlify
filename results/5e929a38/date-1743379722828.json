@@ -1,0 +1,67 @@
+{
+  "url": "https://vite-mantine-dashboard.sznm.dev/",
+  "requestedUrl": "https://vite-mantine-dashboard.sznm.dev/",
+  "timestamp": 1743379960974,
+  "ranks": {
+    "hundos": 4,
+    "performance": 8,
+    "accessibility": 4,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 1961.1461,
+  "firstMeaningfulPaint": 1961.1461,
+  "speedIndex": 1961.1461,
+  "largestContentfulPaint": 2229.46,
+  "totalBlockingTime": 17.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2137.80305,
+  "maxPotentialFirstInputDelay": 85,
+  "timeToFirstByte": 34.44699999999999,
+  "weight": {
+    "summary": "9 requests • 232.1 KiB",
+    "total": 237715,
+    "image": 5849,
+    "imageCount": 3,
+    "script": 151024,
+    "scriptCount": 3,
+    "document": 900,
+    "font": 39308,
+    "fontCount": 1,
+    "stylesheet": 40634,
+    "stylesheetCount": 1,
+    "thirdParty": 4895,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 6,
+    "-weight.document": 2,
+    "+weight.document": 11,
+    "-weight.script": 7,
+    "+weight.script": 7,
+    "-weight.image": 7,
+    "+weight.image": 6,
+    "-weight.font": 11,
+    "+weight.font": 3,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 184,
+    "violations": 1
+  }
+}
