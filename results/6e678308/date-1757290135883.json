@@ -1,0 +1,67 @@
+{
+  "url": "https://nextarter-mantine.sznm.dev/",
+  "requestedUrl": "https://nextarter-mantine.sznm.dev/",
+  "timestamp": 1757290347738,
+  "ranks": {
+    "hundos": 2,
+    "performance": 3,
+    "accessibility": 7,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 1225.5700000000002,
+  "firstMeaningfulPaint": 1225.5700000000002,
+  "speedIndex": 1738.502114000034,
+  "largestContentfulPaint": 1682.7238000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1225.5700000000002,
+  "maxPotentialFirstInputDelay": 41,
+  "timeToFirstByte": 3.0429999999999993,
+  "weight": {
+    "summary": "15 requests • 188.8 KiB",
+    "total": 193331,
+    "image": 3069,
+    "imageCount": 2,
+    "script": 120421,
+    "scriptCount": 8,
+    "document": 5154,
+    "font": 32545,
+    "fontCount": 1,
+    "stylesheet": 32142,
+    "stylesheetCount": 3,
+    "thirdParty": 3069,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 10,
+    "-weight.document": 11,
+    "+weight.document": 3,
+    "-weight.script": 4,
+    "+weight.script": 10,
+    "-weight.image": 3,
+    "+weight.image": 10,
+    "-weight.font": 6,
+    "+weight.font": 6,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 88,
+    "violations": 2
+  }
+}
