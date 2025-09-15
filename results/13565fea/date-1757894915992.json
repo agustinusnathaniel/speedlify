@@ -1,0 +1,67 @@
+{
+  "url": "https://rsbuild-antd-dashboard.sznm.dev/",
+  "requestedUrl": "https://rsbuild-antd-dashboard.sznm.dev/",
+  "timestamp": 1757895152725,
+  "ranks": {
+    "hundos": 11,
+    "performance": 12,
+    "accessibility": 10,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 383
+  },
+  "firstContentfulPaint": 806.08,
+  "firstMeaningfulPaint": 1809.08,
+  "speedIndex": 3106.8789999999085,
+  "largestContentfulPaint": 3396.08,
+  "totalBlockingTime": 192,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3807.08,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 2.7479999999999976,
+  "weight": {
+    "summary": "12 requests • 418.8 KiB",
+    "total": 428817,
+    "image": 5803,
+    "imageCount": 2,
+    "script": 383817,
+    "scriptCount": 7,
+    "document": 2494,
+    "font": 35862,
+    "fontCount": 1,
+    "stylesheet": 841,
+    "stylesheetCount": 1,
+    "thirdParty": 1763,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 3,
+    "-weight.document": 5,
+    "+weight.document": 9,
+    "-weight.script": 11,
+    "+weight.script": 3,
+    "-weight.image": 7,
+    "+weight.image": 5,
+    "-weight.font": 9,
+    "+weight.font": 4,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 95,
+    "violations": 6
+  }
+}
