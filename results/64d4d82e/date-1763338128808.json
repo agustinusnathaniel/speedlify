@@ -1,0 +1,67 @@
+{
+  "url": "https://nextarter-chakra.sznm.dev/",
+  "requestedUrl": "https://nextarter-chakra.sznm.dev/",
+  "timestamp": 1763338297659,
+  "ranks": {
+    "hundos": 2,
+    "performance": 8,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 830.7160000000001,
+  "firstMeaningfulPaint": 830.7160000000001,
+  "speedIndex": 956.8136191048696,
+  "largestContentfulPaint": 2222.0575,
+  "totalBlockingTime": 133,
+  "cumulativeLayoutShift": 0.0030364271929516633,
+  "timeToInteractive": 2884.2,
+  "maxPotentialFirstInputDelay": 286,
+  "timeToFirstByte": 2.863999999999976,
+  "weight": {
+    "summary": "19 requests • 340.1 KiB",
+    "total": 348225,
+    "image": 7301,
+    "imageCount": 4,
+    "script": 305944,
+    "scriptCount": 12,
+    "document": 13373,
+    "font": 20454,
+    "fontCount": 1,
+    "stylesheet": 1153,
+    "stylesheetCount": 1,
+    "thirdParty": 5208,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 4,
+    "-weight.document": 13,
+    "+weight.document": 1,
+    "-weight.script": 10,
+    "+weight.script": 4,
+    "-weight.image": 10,
+    "+weight.image": 3,
+    "-weight.font": 1,
+    "+weight.font": 12,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "passes": 111,
+    "violations": 0
+  }
+}
