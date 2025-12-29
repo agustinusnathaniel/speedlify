@@ -1,0 +1,67 @@
+{
+  "url": "https://sozonome.cloudflareaccess.com/cdn-cgi/access/login/base.sznm.dev?kid=b3ddd4578b54377971b7d0ab91e1c14eec098b833e448a08601188bf57da0dae&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImY4NjUwMjc0YmIzOGM0YmYwMzgxMTRjZTg5YTU0NTQ4ZmRmYjljZDg1NzNlNzNhNjE1YWYyZWVkOWIzNWNlNjkifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6ImIzZGRkNDU3OGI1NDM3Nzk3MWI3ZDBhYjkxZTFjMTRlZWMwOThiODMzZTQ0OGEwODYwMTE4OGJmNTdkYTBkYWUiLCJob3N0bmFtZSI6ImJhc2Uuc3pubS5kZXYiLCJyZWRpcmVjdF91cmwiOiIvIiwic2VydmljZV90b2tlbl9zdGF0dXMiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiaXNfZ2F0ZXdheSI6ZmFsc2UsImV4cCI6MTc2Njk2NzQ1MiwibmJmIjoxNzY2OTY3MTUyLCJpYXQiOjE3NjY5NjcxNTIsImF1dGhfc3RhdHVzIjoiTk9ORSIsIm10bHNfYXV0aCI6eyJjZXJ0X2lzc3Vlcl9kbiI6IiIsImNlcnRfc2VyaWFsIjoiIiwiY2VydF9pc3N1ZXJfc2tpIjoiIiwiY2VydF9wcmVzZW50ZWQiOmZhbHNlLCJjb21tb25fbmFtZSI6IiIsImF1dGhfc3RhdHVzIjoiTk9ORSJ9LCJyZWFsX2NvdW50cnkiOiJVUyIsImFwcF9zZXNzaW9uX2hhc2giOiJkOTk5ODAyZjlhNWQyZDlhMzFkMTBjMGM3Zjg0YmUxMGQ4NTBmZDdlNzAwODhhNTM5ZjE1OWQ0ZTkyNTM1OGFjIn0.LJ8T97ficVpCzMaibe_JKiRNk0jJveZTxZAxqijEcXDQ11Xmu6_hK_xEYe9gLHDUpaEsOoFWfID9T_oV9qyWbKW6daUP7OWARZnOepc8yHJpW58E6U__97HX4-_afYKVUQVqKI3WimfCWRSNNaeFE-fh-jeNTb9vlcPZvSKSquGce-dOfSiccrA-J5eMQZ_-Vd-49PNlT6FXP8zu_5xo1TtqOEcr0RWVEn9OiNNuWn10i_rTWl3bS6qXQnLgLv0iLU6e3eudrnHCNXAqEBLfK33h6kq1LQIc2ZASpbD5UF8Uwr2K4_JNunzGrSqP_7yxkTQKnTR5b37-xb8xIzV4hQ&redirect_url=%2F",
+  "requestedUrl": "https://base.sznm.dev/",
+  "timestamp": 1766967156566,
+  "ranks": {
+    "hundos": 8,
+    "performance": 1,
+    "accessibility": 10,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.74,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 355
+  },
+  "firstContentfulPaint": 1892.1259999999997,
+  "firstMeaningfulPaint": 1892.1259999999997,
+  "speedIndex": 1892.1259999999997,
+  "largestContentfulPaint": 1892.1259999999997,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1892.1259999999997,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 269.1,
+  "weight": {
+    "summary": "4 requests • 12.9 KiB",
+    "total": 13195,
+    "image": 0,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 11391,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1804,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 10,
+    "-weight.document": 3,
+    "+weight.document": 8,
+    "-weight.script": 1,
+    "+weight.script": 10,
+    "-weight.image": 1,
+    "+weight.image": 4,
+    "-weight.font": 1,
+    "+weight.font": 10,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 47,
+    "violations": 9
+  }
+}
