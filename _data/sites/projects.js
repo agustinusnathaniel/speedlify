@@ -23,5 +23,6 @@ module.exports = {
     "https://gaas.sznm.dev/",
     "https://base.sznm.dev/",
     "https://xtarter.sznm.dev/",
+    "https://savorsanctum.sznm.dev/"
   ],
 };
