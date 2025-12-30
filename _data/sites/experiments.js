@@ -17,5 +17,7 @@ module.exports = {
     "https://my-spotify-nuxt.sznm.dev",
     "https://my-spotify-fresh.sznm.dev",
     "https://leeboor.sznm.dev",
+    "https://meal-app.sznm.dev",
+    "https://zippy.sznm.dev"
   ],
 };
