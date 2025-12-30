@@ -14,14 +14,11 @@ module.exports = {
   },
   urls: [
     "https://agustinusnathaniel.com/",
-    "https://wussh.sznm.dev/",
-    "https://wussh.sznm.dev/sozonome",
     "https://wussh.sznm.dev/agustinusnathaniel",
     "https://spoker.dev/home",
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
     "https://gaas.sznm.dev/",
-    "https://base.sznm.dev/",
     "https://xtarter.sznm.dev/",
     "https://savorsanctum.sznm.dev/"
   ],
