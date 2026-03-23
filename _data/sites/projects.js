@@ -15,7 +15,7 @@ module.exports = {
   urls: [
     "https://agustinusnathaniel.com/",
     "https://wussh.sznm.dev/agustinusnathaniel",
-    "https://spoker.dev/home",
+    "https://spoker.sznm.dev/home",
     "https://publicapis.sznm.dev/",
     "https://muvees.sznm.dev/",
     "https://gaas.sznm.dev/",
