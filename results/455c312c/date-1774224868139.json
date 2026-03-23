@@ -1,0 +1,67 @@
+{
+  "url": "https://zippy.sznm.dev/",
+  "requestedUrl": "https://zippy.sznm.dev/",
+  "timestamp": 1774224930178,
+  "ranks": {
+    "hundos": 2,
+    "performance": 4,
+    "accessibility": 3,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 0.87,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 379
+  },
+  "firstContentfulPaint": 1921.2450999999999,
+  "firstMeaningfulPaint": 1921.2451,
+  "speedIndex": 2345.2003939999836,
+  "largestContentfulPaint": 2978.9021,
+  "totalBlockingTime": 106.00000000000011,
+  "cumulativeLayoutShift": 0.00038739581130547805,
+  "timeToInteractive": 2411.95985,
+  "maxPotentialFirstInputDelay": 156.0000000000001,
+  "timeToFirstByte": 2.5660000000000025,
+  "weight": {
+    "summary": "9 requests • 255.9 KiB",
+    "total": 262055,
+    "image": 0,
+    "imageCount": 0,
+    "script": 209980,
+    "scriptCount": 4,
+    "document": 950,
+    "font": 39863,
+    "fontCount": 1,
+    "stylesheet": 10175,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 2,
+    "-weight.document": 2,
+    "+weight.document": 5,
+    "-weight.script": 5,
+    "+weight.script": 2,
+    "-weight.image": 1,
+    "+weight.image": 2,
+    "-weight.font": 3,
+    "+weight.font": 3,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 127,
+    "violations": 8
+  }
+}
