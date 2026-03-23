@@ -1,0 +1,67 @@
+{
+  "url": "https://meal-app.sznm.dev/",
+  "requestedUrl": "https://meal-app.sznm.dev/",
+  "timestamp": 1774265692755,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 2,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 333
+  },
+  "firstContentfulPaint": 2812.098000000001,
+  "firstMeaningfulPaint": 2974.098000000001,
+  "speedIndex": 3957.4236248281486,
+  "largestContentfulPaint": 6548.932499999999,
+  "totalBlockingTime": 509.3899999999999,
+  "cumulativeLayoutShift": 0.45943127589205446,
+  "timeToInteractive": 3681.0430000000006,
+  "maxPotentialFirstInputDelay": 247,
+  "timeToFirstByte": 32.33700000000002,
+  "weight": {
+    "summary": "45 requests • 3.7 MiB",
+    "total": 3898200,
+    "image": 3473356,
+    "imageCount": 25,
+    "script": 356637,
+    "scriptCount": 6,
+    "document": 818,
+    "font": 25129,
+    "fontCount": 1,
+    "stylesheet": 14334,
+    "stylesheetCount": 1,
+    "thirdParty": 3499100,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 1,
+    "-weight.document": 1,
+    "+weight.document": 6,
+    "-weight.script": 6,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 5,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 440,
+    "violations": 8
+  }
+}
