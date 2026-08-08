@@ -20,6 +20,9 @@ module.exports = {
     "https://muvees.sznm.dev/",
     "https://gaas.sznm.dev/",
     "https://xtarter.sznm.dev/",
-    "https://savorsanctum.sznm.dev/"
+    "https://maestria.sznm.dev/",
+    "https://savorsanctum.sznm.dev/",
+    "https://cartrack.sznm.dev/",
+    "https://tools.sznm.dev/"
   ],
 };
