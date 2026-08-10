@@ -1,0 +1,67 @@
+{
+  "url": "https://maestria.sznm.dev/",
+  "requestedUrl": "https://maestria.sznm.dev/",
+  "timestamp": 1786323919600,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1658.09684,
+  "firstMeaningfulPaint": 1658.09684,
+  "speedIndex": 1658.09684,
+  "largestContentfulPaint": 2025.4260399999996,
+  "totalBlockingTime": 4.5,
+  "cumulativeLayoutShift": 0.0024022761398223152,
+  "timeToInteractive": 2058.73059,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 147.606,
+  "weight": {
+    "summary": "14 requests • 166.6 KiB",
+    "total": 170589,
+    "image": 0,
+    "imageCount": 0,
+    "script": 45662,
+    "scriptCount": 5,
+    "document": 13649,
+    "font": 87892,
+    "fontCount": 2,
+    "stylesheet": 21240,
+    "stylesheetCount": 2,
+    "thirdParty": 11451,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 11,
+    "-weight.document": 6,
+    "+weight.document": 6,
+    "-weight.script": 2,
+    "+weight.script": 10,
+    "-weight.image": 1,
+    "+weight.image": 5,
+    "-weight.font": 9,
+    "+weight.font": 3,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 698,
+    "violations": 0
+  }
+}
