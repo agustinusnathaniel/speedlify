@@ -1,0 +1,67 @@
+{
+  "url": "https://savorsanctum.sznm.dev/",
+  "requestedUrl": "https://savorsanctum.sznm.dev/",
+  "timestamp": 1786927506023,
+  "ranks": {
+    "hundos": 7,
+    "performance": 5,
+    "accessibility": 8,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "bestPractices": 0.89,
+    "seo": 1,
+    "total": 379
+  },
+  "firstContentfulPaint": 1911.6775708446894,
+  "firstMeaningfulPaint": 1911.6775708446894,
+  "speedIndex": 1911.6775708446894,
+  "largestContentfulPaint": 2091.0255708446894,
+  "totalBlockingTime": 98.5,
+  "cumulativeLayoutShift": 0.0013389400315376417,
+  "timeToInteractive": 2831.2464979564124,
+  "maxPotentialFirstInputDelay": 173,
+  "timeToFirstByte": 91.023,
+  "weight": {
+    "summary": "15 requests • 374.2 KiB",
+    "total": 383140,
+    "image": 0,
+    "imageCount": 0,
+    "script": 277309,
+    "scriptCount": 9,
+    "document": 58344,
+    "font": 30752,
+    "fontCount": 1,
+    "stylesheet": 15039,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 7,
+    "-weight.document": 10,
+    "+weight.document": 2,
+    "-weight.script": 5,
+    "+weight.script": 7,
+    "-weight.image": 1,
+    "+weight.image": 5,
+    "-weight.font": 1,
+    "+weight.font": 11,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 699,
+    "violations": 3
+  }
+}
