@@ -23,6 +23,7 @@ module.exports = {
     "https://maestria.sznm.dev/",
     "https://savorsanctum.sznm.dev/",
     "https://cartrack.sznm.dev/",
-    "https://tools.sznm.dev/"
+    "https://tools.sznm.dev/",
+    "https://idmp.sznm.dev/"
   ],
 };
