@@ -15,6 +15,7 @@ module.exports = {
   urls: [
     "https://nextarter-chakra.sznm.dev/",
     "https://nextarter-tailwind.sznm.dev",
-    "https://vite-react-tailwind-starter.sznm.dev"
+    "https://vite-react-tailwind-starter.sznm.dev",
+    "https://vite-react-chakra-starter.sznm.dev"
   ],
 };
